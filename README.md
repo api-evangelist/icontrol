@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-iControl is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+iControl is a Swedish construction-technology company whose mobile application digitalizes documentation on construction sites, replacing paper-based protocols and inspection records with real-time digital capture. Field personnel create, share, and manage project documentation from the job site, with offline capture that syncs when connectivity returns, drawing and blueprint uploads, and team collaboration. Marketed under the promise "Skriv aldrig ett protokoll igen" (never write a protocol again), iControl is used by leading Nordic contractors including NCC, JM, Veidekke, ARCONA, and In3prenor across infrastructure, residential, commercial, and public-facility projects. The company is headquartered in Stockholm and is a portfolio company of 500 Global. iControl exposes a consumer-facing web and mobile application; no public developer API, OpenAPI specification, or SDK was found during enrichment.
 
-Backed by: 500-global — https://icontrolapp.se
+**Areas:** Company · Construction · Construction Technology · Documentation · Field Service · Inspection · Mobile · Project Management · Sweden
+
+## iControl on APIs.io
+
+Everything profiled for iControl is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/icontrol/](https://apis.io/providers/icontrol/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Icontrol Domain Security](https://apis.io/security/icontrol/icontrol-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://icontrolapp.se)
+- [Pricing](https://icontrolapp.se/pris/sv)
+- [Sign up](https://app.icontrolapp.se/register?lang=sv)
+- [Support](https://icontrolapp.se/kontakt/sv)
+
+## API Evangelist rating
+
+**Kin Score 7.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 17.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/icontrol/](https://apis.io/providers/icontrol/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for iControl: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/icontrol/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
